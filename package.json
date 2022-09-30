@@ -1,5 +1,6 @@
 {
-  "name": "strapi-provider-upload-aws-s3-advanced",
+  "Author": "Hamza Ali",
+  "name": "strapi-provider-upload-aws-s3-custom",
   "version": "1.0.0",
   "description": "Custom AWS S3 provider for strapi",
   "dependencies": {
